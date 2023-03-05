@@ -11,6 +11,8 @@ Based on search criteria the code allowed the user to filter the table for speci
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/115379848/222938168-7bac4632-b16e-4581-8752-05033160bfc7.png">
 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+visit our website 
+
 
 <img width="356" alt="image" src="https://user-images.githubusercontent.com/115379848/222938300-272cba64-fa54-4b3f-bd59-10b07f6626f4.png">
 
