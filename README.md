@@ -4,11 +4,14 @@ Dana wanted to provide a more in-depth analysis of UFO sightings by allowing the
 ## Purpose
 
 Utilizing JavaScript and HTML to filter UFO’s table sightings on multiple criteria
+
 ##Results: 
 
 Based on search criteria the code allowed the user to filter the table for specific values for example filter by city, state, country, and shape.
 
+
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/115379848/222938168-7bac4632-b16e-4581-8752-05033160bfc7.png">
+
 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 visit our website 
@@ -18,7 +21,9 @@ visit our website
 
 
 
+
 <img width="356" alt="image" src="https://user-images.githubusercontent.com/115379848/222938300-272cba64-fa54-4b3f-bd59-10b07f6626f4.png">
+
 
 
 
@@ -27,7 +32,9 @@ visit our website
 
 
 
+
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/115379848/222938493-455cacfc-e2e0-47d1-bf41-a0adbc599e3a.png">
+
 
 
 
@@ -36,7 +43,8 @@ visit our website
 
 
 
-4.	##Summary: 
+
+4.	## Summary: 
 5.	
 6.	In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
