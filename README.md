@@ -13,6 +13,8 @@ Based on search criteria the code allowed the user to filter the table for speci
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 visit our website 
 
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/115379848/222938758-2172b0c8-2f51-4919-8af8-c15463a97fb2.png">
+
 
 <img width="356" alt="image" src="https://user-images.githubusercontent.com/115379848/222938300-272cba64-fa54-4b3f-bd59-10b07f6626f4.png">
 
