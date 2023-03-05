@@ -16,7 +16,6 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/115379848/222938341-10982ad6-5bb0-47b9-a351-96013c25377a.png">
 
-<img width="274" alt="image" src="https://user-images.githubusercontent.com/115379848/222938445-e359c372-927a-46ce-88a0-ad965bb37c51.png">
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/115379848/222938493-455cacfc-e2e0-47d1-bf41-a0adbc599e3a.png">
 
