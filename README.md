@@ -5,7 +5,7 @@ Dana wanted to provide a more in-depth analysis of UFO sightings by allowing the
 
 Utilizing JavaScript and HTML to filter UFO’s table sightings on multiple criteria
 
-##Results: 
+## Results: 
 
 Based on search criteria the code allowed the user to filter the table for specific values for example filter by city, state, country, and shape.
 
