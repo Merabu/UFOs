@@ -36,6 +36,7 @@ visit our website
 
 
 
-4.	Summary: 
-5.	In a summary statement, describe one drawback of this new design and two recommendations for further development.
+4.	##Summary: 
+5.	
+6.	In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
