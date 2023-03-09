@@ -29,27 +29,9 @@ visit our website
 
 
 
-<img width="356" alt="image" src="https://user-images.githubusercontent.com/115379848/222938300-272cba64-fa54-4b3f-bd59-10b07f6626f4.png">
 
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/115379848/224151958-cb7ccbdb-36a7-4f9c-852c-8ba0cb105e77.png">
 
-
-
-
-
-
-
-<img width="422" alt="image" src="https://user-images.githubusercontent.com/115379848/222938341-10982ad6-5bb0-47b9-a351-96013c25377a.png">
-
-
-
-
-
-<img width="274" alt="image" src="https://user-images.githubusercontent.com/115379848/222938493-455cacfc-e2e0-47d1-bf41-a0adbc599e3a.png">
-
-
-
-
-<img width="397" alt="image" src="https://user-images.githubusercontent.com/115379848/222938531-8575348e-7343-4273-a148-a26ae55d4158.png">
 
 
 
