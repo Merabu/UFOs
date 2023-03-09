@@ -1,9 +1,11 @@
 # UFOs
 ## purpose of this analysis.
-Dana wanted to provide a more in-depth analysis of UFO sightings by allowing the website users to filter for multiple criteria at the same time. She would also like to add table filters for the city, state, country, and shape.
-## Purpose
-
 Utilizing JavaScript and HTML to filter UFO’s table sightings on multiple criteria
+
+### Dana wanted to provide a more in-depth analysis of UFO sightings by allowing the website users to filter for multiple criteria at the same time. She would also like to add table filters for the city, state, country, and shape.
+
+
+
 
 ## Results: 
 
