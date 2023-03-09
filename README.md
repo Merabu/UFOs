@@ -28,6 +28,8 @@ visit our website
 
 
 
+The user will set multiple filters of date, city, state, country shape and search for UFO sightings using the following criteria based on the table columns:
+
 
 
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/115379848/224151958-cb7ccbdb-36a7-4f9c-852c-8ba0cb105e77.png">
