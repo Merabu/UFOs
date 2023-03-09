@@ -10,6 +10,9 @@ Utilizing JavaScript and HTML to filter UFO’s table sightings on multiple crit
 Based on search criteria the code allowed the user to filter the table for specific values for example filter by city, state, country, and shape.
 
 
+
+
+
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/115379848/222938168-7bac4632-b16e-4581-8752-05033160bfc7.png">
 
 
@@ -22,7 +25,14 @@ visit our website
 
 
 
+
+
+
 <img width="356" alt="image" src="https://user-images.githubusercontent.com/115379848/222938300-272cba64-fa54-4b3f-bd59-10b07f6626f4.png">
+
+
+
+
 
 
 
@@ -44,7 +54,14 @@ visit our website
 
 
 
-4.	## Summary: 
-5.	
-6.	In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary: 
+	
+### In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Some users may exprience furstration because the criteria for filteration are case sentitive.
+if we didnt know the data it would be difficukt to set the filters, in case I would set a list of seach for each criteria using a dropdrown and will accommadate all the filter entries 
+
+
+
+
+
 
